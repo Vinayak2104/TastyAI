@@ -17,4 +17,4 @@ There are more things you can achieve and here are upcoming features:
 - Incorporation of Additional Data Sources: TastyAI is actively expanding its horizons by incorporating more data sources, including APIs, to provide you with the most comprehensive and up-to-date culinary information available.
 ## Demo
 
-![alt-text]()
+![alt-text](https://github.com/Vinayak2104/TastyAI/blob/master/demo.gif)
