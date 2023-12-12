@@ -16,5 +16,5 @@ There are more things you can achieve and here are upcoming features:
 - Weather-based Suggestions: TastyAI will soon integrate location and weather details to suggest dishes that complement the climate, ensuring your culinary experience is perfectly suited to your environment.
 - Incorporation of Additional Data Sources: TastyAI is actively expanding its horizons by incorporating more data sources, including APIs, to provide you with the most comprehensive and up-to-date culinary information available.
 ## Demo
-
+Video link: https://youtu.be/pdTu8AuTXyg
 ![alt-text](https://github.com/Vinayak2104/TastyAI/blob/master/demo.gif)
